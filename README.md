@@ -41,7 +41,7 @@ Em 2005, o desmatamento na Amazônia diminuiu 31% em relação ao ano anterior, 
 
 ![output4](https://github.com/user-attachments/assets/b25c662c-cab3-43fc-a482-ce649446e830)
 
-- **. Governo Bolsonaro (2019-2022)**
+- **Governo Bolsonaro (2019-2022):**
 
 - **Discurso antiambiental:** O presidente Jair Bolsonaro adotou um discurso abertamente favorável à exploração econômica da Amazônia, minimizando a importância da preservação ambiental. Declarações como "não vamos mais 'fiscalizar, fiscalizar, fiscalizar'" e críticas ao trabalho de órgãos ambientais contribuíram para criar um ambiente de impunidade.
 - **Desmonte institucional:**
